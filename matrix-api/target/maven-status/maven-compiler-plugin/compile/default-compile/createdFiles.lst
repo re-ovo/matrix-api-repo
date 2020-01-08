@@ -1,0 +1,6 @@
+me\rerere\matrix\api\MatrixAPIProvider.class
+me\rerere\matrix\api\HackType.class
+me\rerere\matrix\api\events\PlayerViolationCommandEvent.class
+me\rerere\matrix\api\events\PlayerViolationEvent.class
+me\rerere\matrix\api\MatrixAPI.class
+me\rerere\matrix\api\exception\UnknowMinecraftVersionException.class
