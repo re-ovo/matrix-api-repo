@@ -66,4 +66,6 @@ public interface MatrixAPI {
      * @param player 玩家对象
      */
     void reloadPermissionCache(Player player);
+
+    void flag(Player player, HackType hackType, String message, String component, int vlAddd);
 }
