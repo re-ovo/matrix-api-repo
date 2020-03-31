@@ -68,4 +68,6 @@ public interface MatrixAPI {
     void reloadPermissionCache(Player player);
 
     void flag(Player player, HackType hackType, String message, String component, int vlAddd);
+
+    void tempBypass(Player player, HackType hackType, Long milliseconds);
 }

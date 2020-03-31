@@ -55,12 +55,10 @@ public class PlayerViolationEvent extends Event implements Cancellable {
         return handlers;
     }
 
-    @Override
     public boolean isCancelled() {
         return cancel;
     }
 
-    @Override
     public void setCancelled(boolean b) {
         this.cancel = b;
     }
